@@ -1,0 +1,20 @@
+{
+  "name": "eip-7720-playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/index.js",
+  "type": "module",
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run"
+  },
+  "dependencies": {
+    "viem": "^2.7.8"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.19",
+    "dotenv": "^16.4.7",
+    "typescript": "^5.3.3",
+    "vitest": "^1.6.1"
+  }
+}

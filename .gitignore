@@ -1,0 +1,17 @@
+node_modules/
+dist/
+out/
+broadcast/
+coverage/
+cache/
+repomix_context/
+.cursor/
+.DS_Store
+*.log
+.env
+.env.*
+.env.local
+.env.development
+.env.production
+.env.test
+.env.test.local
