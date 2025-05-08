@@ -50,13 +50,13 @@ describe('EIP-7702 Tests', () => {
                     [
                         {
                             target: bobAddress,
-                            allowFailure: true,
+                            allowFailure: false,
                             value: parseEther("1"),
                             callData: "0x",
                         },
                         {
                             target: bobAddress,
-                            allowFailure: true,
+                            allowFailure: false,
                             value: parseEther("2"),
                             callData: "0x",
                         },
